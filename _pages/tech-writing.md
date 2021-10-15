@@ -3,7 +3,7 @@ layout: page
 title: tech-writing
 permalink: /tech-writing/
 description: Scientific writing example sentences in papers or articles.
-nav: true
+nav: false
 horizontal: true
 ---
 <div class="projects">
