@@ -71,8 +71,8 @@ panelbear_analytics: XXXXXXXXX # panelbear analytics site ID
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name:   # your blog must have a name for it to show up in the nav bar
-blog_description: a simple whitespace theme for academics
+blog_name: blog # your blog must have a name for it to show up in the nav bar
+blog_description: talks, seminars, workshops and fun activities
 permalink: /blog/:year/:title/
 
 
@@ -231,3 +231,4 @@ popper:
 medium_zoom:
   version: "1.0.6"
   integrity: "sha256-EdPgYcPk/IIrw7FYeuJQexva49pVRZNmt3LculEr7zM="
+
