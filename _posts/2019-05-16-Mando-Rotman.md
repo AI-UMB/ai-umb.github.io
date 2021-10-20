@@ -6,7 +6,7 @@ description: 12:00 ~ 1:00 PM  CC3545
 ---
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/2019-Mando-Rotman/poster.jpg" data-zoomable>
+        <img style="width = 70%" class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/2019-Mando-Rotman/poster.jpg" data-zoomable>
     </div>
     <div class="col-sm mt-3 mt-md-0">
       <h4>Speaker: <strong>Mando Rotman </strong></h4>
