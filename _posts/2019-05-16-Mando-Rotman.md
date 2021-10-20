@@ -19,6 +19,6 @@ description: 12:00 ~ 1:00 PM  CC3545
 </div>
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/2019-Mando-Rotman/poster.jpg" data-zoomable>
+        <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/2019-Mando-Rotman/talk.jpg" data-zoomable>
     </div>
 </div>
